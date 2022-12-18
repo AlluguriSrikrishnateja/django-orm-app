@@ -10,7 +10,7 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
-first we have to clone repository from git. Then we have to give a command to enter in "django-orm-app". Next we have to enter int he file called dataproject by using a command called "cd dataproject".
+first we have to clone repository from git. Then we have to give a command to enter in "django-orm-app". Next we have to enter in the file called dataproject by using a command called "cd dataproject".
 ### STEP 2:
 Now,we have to enter in our own created file named policeinfo by using the command called "python3 manage.py startapp policeinfo".
 ### STEP 3:
@@ -36,8 +36,8 @@ class PoliceAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![client side output](./images/clientsideoutput.png)
-![server side output](./images/serversideoutput.png)
+![entity diagram](./images/clientsideoutput.png)
+![entity diagram](./images/serversideoutput.png)
 
 
 ## RESULT
