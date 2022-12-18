@@ -36,8 +36,8 @@ class PoliceAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![entity diagram](./images/clientsideoutput.png)
-![entity diagram](./images/serversideoutput.png)
+![client side output](./images/clientsideoutput.png)
+![server side output](./images/serversideoutput.png)
 
 
 ## RESULT
