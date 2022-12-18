@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![entity diagram](./sneha/policeinfo.png)
+![entity diagram](./images/policeinfo.png)
 
 ## DESIGN STEPS
 
@@ -36,8 +36,8 @@ class PoliceAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![client side output](./sneha/clientsideoutput.png)
-![server side output](./sneha/serversideoutput.png)
+![client side output](./images/clientsideoutput.png)
+![server side output](./images/serversideoutput.png)
 
 
 ## RESULT
